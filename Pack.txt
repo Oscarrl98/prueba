@@ -4,3 +4,4 @@ git add .
 git commit
 git push
 git pull  es para descargar los archivos
+ffdfdf
